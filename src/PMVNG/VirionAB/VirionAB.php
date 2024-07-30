@@ -6,6 +6,6 @@ namespace PMVNG\VirionAB;
 
 class VirionAB {
 	public static function init(): void {
-		var_dump("VirionAB ver: 1.0.0");
+		var_dump("VirionAB ver: 2.0.0");
 	}
 }
