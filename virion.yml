@@ -1,0 +1,7 @@
+---
+name: VirionAB
+version: 1.0.0
+antigen: PMVNG\VirionAB
+api: [5.0.0]
+authors: [PMVNG]
+...
